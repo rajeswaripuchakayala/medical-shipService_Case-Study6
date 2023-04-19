@@ -1,4 +1,4 @@
-a.Branching Strategies
+Branching Strategies
 
 To work efficiently and effectively in a collaborative environment, it is important to have a branching strategy in place. In this case, we can use the GitFlow branching strategy, which is widely used in software development. GitFlow provides a robust framework for managing branches and releases in a complex project.
 
